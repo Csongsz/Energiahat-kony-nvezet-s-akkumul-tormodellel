@@ -1,0 +1,1 @@
+# Energiahat-kony-nvezet-s-akkumul-tormodellel
