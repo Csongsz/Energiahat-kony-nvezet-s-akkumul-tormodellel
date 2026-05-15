@@ -1,1 +1,1 @@
-# Energiahat-kony-nvezet-s-akkumul-tormodellel
+Energiahatékony önvezetés akkumulátormodellel
